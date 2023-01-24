@@ -1,4 +1,4 @@
-# blockchain-with-Streamlit
+# KryptoJobs2Go Application
 
 ![An image shows a wallet with bitcoin.](Images/19-4-challenge-image.png)
 
